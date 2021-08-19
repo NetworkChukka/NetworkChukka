@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to srilankan Hacking Commiunity
 </p>
-<iframe src="https://gifer.com/embed/7iKF" width=480 height=224.877 frameBorder="0" allowFullScreen></iframe>
+<body>
+<imgsrc src="https://gifer.com/embed/7iKF" width=480 height=224.877 frameBorder="0" allowFullScreen>
 
 
 
