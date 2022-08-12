@@ -8,7 +8,8 @@ Introduce you about myself, my name is Network Chukka ; 17 y.o from Sri lanka.
    
 
   
-                                   https://ko-fi.com/networkchuka
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/networkchukka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="networkchukka" /></a><a href="https://ko-fi.com/networkchukka"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="networkchukka" /></a></p><br><br>
 
 
  
