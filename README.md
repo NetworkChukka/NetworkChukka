@@ -1,5 +1,5 @@
 <h2 align="center">Hello There! I am Networkchukka</h2>
-<img  width="500" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 
 Introduce you about myself, my name is Network Chukka ; 17 y.o from Sri lanka.
 
