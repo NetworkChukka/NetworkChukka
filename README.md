@@ -1,7 +1,7 @@
 ### <h1 align="center">👋 Hi, I’m NetworkChukka</h1>
 
 <div align="center" ><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="NetworkChukka" border="0" hight="400"></div>
-
+<br>
 - 🔭 I'm currently following **Advance level in Srilanka**
 - 🌱 I’m currently learning **Programming languages**
 - 👯 I’m looking to collaborate on **Open source and commercial projects**
