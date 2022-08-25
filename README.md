@@ -1,6 +1,6 @@
 ### <h1 align="center">👋 Hi, I’m NetworkChukka</h1>
 
-<div align="center" ><img src="" alt="11111111111" border="0"></div>
+<div align="center" ><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="NetworkChukka" border="0"></div>
 
 - 🔭 I'm currently following **Advance level in Srilanka**
 - 🌱 I’m currently learning **Programming languages**
@@ -28,8 +28,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -42,13 +41,18 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br />
+_<h3 align="left">My Trophies:</h3>_
 
+![trophy](https://github-profile-trophy.vercel.app/?username=networkchukka&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=networkchukka&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=networkchukka&show_icons=true&theme=radical)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=networkchukka&show_icons=true&theme=tokyonight)<br />
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=networkchukka&theme=radical)
 
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=networkchukka&show_icons=true&theme=tokyonight)<br />
+![Github Profile Views](https://komarev.com/ghpvc/?username=networkchukka&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=networkchukka&layout=compact&langs_count=8&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=networkchukka&theme=radical)
 
+![GitHub metrics](https://metrics.lecoq.io/networkchukka)
