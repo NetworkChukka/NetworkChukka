@@ -9,7 +9,7 @@
 - ❤ I’m **Open Source Lover**
 - 💬 Ask me about **Programming, Graphic Designing and Video Editing**
 - 📫 How to reach me **hi@outlook.com** 
-- 🕸️ Portfolio Website **https://networkchukka.github.io/Portfolio-Site-1/**
+- 🕸️ Portfolio Website **https://networkchukka.github.io/site/**
   </br>
   </br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=networkchukka&color=brightgreen" alt="networkchukka" /> </p>
