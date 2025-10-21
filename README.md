@@ -42,21 +42,20 @@
 
 ### 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBkN4b6sY8/giphy.gif" alt="Coding GIF" width="100" />
+<div >
   <br/>
   <p>
-    - 🔭 I'm a student currently pursuing my **A-Levels in Sri Lanka**.
+    - 🔭 I'm a student currently pursuing my Degree in Applied Sciences.
     <br/>
-    - 🌱 I’m currently learning and exploring various **programming languages**.
+    - 🌱 I’m currently learning and exploring various programming languages.
     <br/>
-    - ❤️ I'm a passionate **Open Source Lover**.
+    - ❤️ I'm a passionate Open Source Lover.
     <br/>
-    - 🤝 I’m looking to collaborate on **open-source and commercial projects**.
+    - 🤝 I’m looking to collaborate on open-source and commercial projects.
     <br/>
-    - 💡 I’m looking for help with **creating bots**.
+    - 💡 I’m looking for help with creating bots.
     <br/>
-    - 💬 Ask me about **Programming, Graphic Designing, or Video Editing**.
+    - 💬 Ask me about Programming, Graphic Designing, or Video Editing.
   </p>
 </div>
 
@@ -73,13 +72,16 @@
   <a href="#"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="48" height="48"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="48" height="48"/></a>
   <br />
-
+  </p>
+<p align="center">
   <strong>Cloud & Tools:</strong>
   <br />
   <a href="#"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="48" height="48"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud" width="48" height="48"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/azure" alt="Azure" width="48" height="48"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/></a>
   <a href="#"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="48" height="48"/></a>
+
 </p>
 
 ---
@@ -89,7 +91,7 @@
 <div align="center">
 
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=networkchukka&theme=tokyonight" alt="GitHub Trophies" align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=networkchukka&theme=tokyonight" alt="GitHub Trophies" />
   </p>
   
   <table align="center" style="border: none;">
@@ -112,7 +114,5 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=networkchukka&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
-
-</div>com/ghpvc/?username=networkchukka&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
