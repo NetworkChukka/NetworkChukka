@@ -78,7 +78,7 @@
   <br />
   <a href="#"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="48" height="48"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/azure.png)" alt="Azure" width="48" height="48"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/azure.png" alt="Azure" width="48" height="48"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/git.png" alt="Git" width="48" height="48"/></a>
   <a href="#"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="48" height="48"/></a>
 
