@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=networkchukka.networkchukka&left_color=gray&right_color=blueviolet&left_text=PROFILE%20VIEWS" alt="Profile Views" />
+<img src="https://hits.sh/github.com/NetworkChukka/NetworkChukka.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=2cb67d&labelColor=555555" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/networkchukka?style=for-the-badge&logo=github&color=2cb67d" alt="Followers" />
 
 </div>
@@ -89,7 +89,7 @@ ask_me_about:
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=networkchukka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=networkchukka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=networkchukka" alt="Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=networkchukka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
