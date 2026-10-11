@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=networkchukka.networkchukka&left_color=2d2d44&right_color=7f5af0&left_text=PROFILE%20VIEWS" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=networkchukka.networkchukka&left_color=gray&right_color=blueviolet&left_text=PROFILE%20VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/networkchukka?style=for-the-badge&logo=github&color=2cb67d" alt="Followers" />
 
 </div>
@@ -98,8 +98,7 @@ ask_me_about:
 
 <br/><br/>
 
-<!-- Contribution calendar -->
-<img src="https://ghchart.rshah.org/7F5AF0/networkchukka" alt="Contribution Calendar" width="95%" />
+
 
 </div>
 
