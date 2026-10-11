@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=networkchukka&color=7f5af0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=networkchukka.networkchukka&left_color=2d2d44&right_color=7f5af0&left_text=PROFILE%20VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/networkchukka?style=for-the-badge&logo=github&color=2cb67d" alt="Followers" />
 
 </div>
@@ -84,7 +84,8 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=networkchukka&theme=tokyonight&no-frame=true&margin-w=12&column=7" alt="Trophies" />
+<img src="https://img.shields.io/github/stars/networkchukka?style=for-the-badge&logo=github&color=2cb67d&labelColor=1a1b27&affiliations=OWNER" alt="Stars" />
+<img src="https://img.shields.io/badge/Public_Repos-Browse-ff8906?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Repos" />
 
 <br/><br/>
 
@@ -97,8 +98,8 @@ ask_me_about:
 
 <br/><br/>
 
-<!-- Contribution graph (animated line chart) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=networkchukka&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%" />
+<!-- Contribution calendar -->
+<img src="https://ghchart.rshah.org/7F5AF0/networkchukka" alt="Contribution Calendar" width="95%" />
 
 </div>
 
@@ -108,7 +109,11 @@ ask_me_about:
 
 <div align="center">
   <!-- Generated daily by .github/workflows/snake.yml -->
-  <img src="https://raw.githubusercontent.com/NetworkChukka/NetworkChukka/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NetworkChukka/NetworkChukka/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NetworkChukka/NetworkChukka/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/NetworkChukka/NetworkChukka/output/github-snake.svg" width="95%" />
+  </picture>
 </div>
 
 ---
